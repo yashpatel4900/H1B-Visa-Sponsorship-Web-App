@@ -1,6 +1,6 @@
 # H1B-Sponsorship-Tracker-Web-APP
 
-Develop a solution to identify companies offering H1B sponsorship to global workers. By utilizing government data from the last ten years, analyze the firms, skills, and job positions associated with higher chances of obtaining H1B visa sponsorships. This API can be integrated as an add-on for platforms like LinkedIn, specifically within their "Job Search" section.
+Developed a solution to identify companies offering H1B sponsorship to global workers. By utilizing government data from the last ten years, analyze the firms, skills, and job positions associated with higher chances of obtaining H1B visa sponsorships. This API can be integrated as an add-on for platforms like LinkedIn, specifically within their "Job Search" section.
 
 ### Data Source
 
@@ -33,3 +33,7 @@ Build a search bar for inputs
 Inputs -> job title, location, company
 Add filters to further shrink the target roles
 Filters -> case status, time frame, pay, H-1B dependent, full time
+
+### Screenshot of Running Application
+
+![234723338-3d05f61a-60e2-4ab6-9b64-42306f82b5c3](https://github.com/yashpatel4900/H1B-Visa-Sponsorship-Web-App/assets/62371168/a9fa9625-c623-4f97-aa58-e84015deb04a)
